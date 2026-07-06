@@ -62,4 +62,4 @@ This project demonstrates how to configure Windows Server file shares using both
 
 ## Accounting NTFS Permissions
 
-![Accounting NTFS Permissions](screenshots/06-ntfs-permissions.png)
+![Accounting NTFS Permissions](screenshots/06-accounting-ntfs-permissions.png)
