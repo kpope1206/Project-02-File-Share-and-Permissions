@@ -42,20 +42,20 @@ This project demonstrates how to configure Windows Server file shares using both
 
 ## Shared Folder Structure
 
-![Shared Folders](screenshots/01-shared-folder.png)
+![Shared Folders](Project-02-File-Share-and Permissions/screenshots/01-shared-folder.png)
 
 ## Share Persissions
 
-![Share Permissions](screenshots/02-share-permissions/png)
+![Share Permissions](Project-02-File-Share-and Permissions/screenshots/02-share-permissions/png)
 
 ## NTFS Permissions
 
-![NTFS Permissions](screenshots/03-ntfs-permissions/png)
+![NTFS Permissions](Project-02-File-Share-and Permissions/screenshots/03-ntfs-permissions/png)
 
 ## User Group Membership
 
-![Group Membership(screenshots/04-user-group-membership/png)
+![Group Membership(Project-02-File-Share-and Permissions/screenshots/04-user-group-membership/png)
 
 ## Successful Test
 
-![Access Test](screenshots/05-successful-access-test/png)
+![Access Test](Project-02-File-Share-and Permissions/screenshots/05-successful-access-test/png)
