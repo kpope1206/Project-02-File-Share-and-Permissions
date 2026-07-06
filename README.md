@@ -63,3 +63,7 @@ This project demonstrates how to configure Windows Server file shares using both
 ## Accounting NTFS Permissions
 
 ![Accounting NTFS Permissions](screenshots/06-accounting-ntfs-permissions.png)
+
+## Conclusion
+
+This project demonstrated how to securly configure Windows Server file shares using both Shared Permissions and NTFS Permissions in an Active Directory environment. Department security groups were used to control access, and permissions were validated from a Windows 10 client to ensure only authorized users could access shared resources. 
